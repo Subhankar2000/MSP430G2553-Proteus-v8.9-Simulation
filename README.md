@@ -7,3 +7,9 @@
  Lastly for running everything you must have a Windows PC, Proteus Design Suite 8.9 or any version from 8.7 to latest 8.10, Texas Instrument’s Code Composer Studio v9 or later, best would be v9.3 (compiler version: TI v18.12.4.LTS), Energia IDE 1.8.10E23. Basically for running and developing you would need everything except for the hardware, extra you would need is Proteus Design Suite v8.9. 
  
  I have made the schematics and configuration for Proteus Project Files and have made necessary changes to codes of Embedded C, so that it can run software UART and be compiled using Energia IDE, because hardware UART on Proteus for MSP430G2x53, MSP430G2x13 does not work. So I have made all to software UART.
+
+https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation
+
+There is a need for detailed instructions for where to keep files and locate them, so as to run Proteus Simulations. Currently I have no time for that, If you are in urgent need of instructions, mail me at subhu990@gmail.com.
+
+Thank You
