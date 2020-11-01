@@ -1,4 +1,5 @@
-# Texas Instrument’s MSP430G2553 microcontroller Proteus v8.9 Simulation [.pdsprj]
+# Proteus + MSP430G2553 [.pdsprj]
+# Texas Instrument’s MSP430G2553 microcontroller Proteus v8.9 Simulation
  The Proteus design files .pdsprj contains the necessary schematic and code( be it in .C or .HEX or .ELF ) and just after keeping some folders and files in one place, these Project files can simply be opened by Proteus Design Suite 8.9 or later or earlier and the simulation can be run. 
  
  The example .C programs are borrowed from a NPTEL course <Introduction to Embedded System Design> (https://onlinecourses.nptel.ac.in/noc20_ee98/course) and their Git repository (https://github.com/ticepd/EmbSysDesign_NPTEL_Course) . Also there is a kit on which these all programs are focused on (https://lunchbox.sincgrid.com/docs/build/html/index.html) and all credits goes to them for creating these all.  Also this is an unofficial repository only I am maintaining for the Proteus Simulation and .INO and .HEX , .ELF files. They have taught the whole course and programs in detail by using a kit (https://store.sincgrid.com/index.php?route=product/product&product_id=109&search=MSP430) 
