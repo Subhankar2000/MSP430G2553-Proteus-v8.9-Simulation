@@ -1,4 +1,4 @@
-# Proteus + MSP430G2553 [.pdsprj]
+# MSP430G2553 + Proteus v8.9 [.pdsprj]
 # Texas Instrument’s MSP430G2553 microcontroller Proteus v8.9 Simulation
  The Proteus design files .pdsprj contains the necessary schematic and code( be it in .C or .HEX or .ELF ) and just after keeping some folders and files in one place, these Project files can simply be opened by Proteus Design Suite 8.9 or later or earlier and the simulation can be run. 
  
