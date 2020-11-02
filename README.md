@@ -9,8 +9,11 @@
  
  I have made the schematics and configuration for Proteus Project Files and have made necessary changes to codes of Embedded C, so that it can run software UART and be compiled using Energia IDE, because hardware UART on Proteus for MSP430G2x53, MSP430G2x13 does not work. So I have made all to software UART.
 
-https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation
+ https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation
 
-There is a need for detailed instructions for where to keep files and locate them, so as to run Proteus Simulations. Currently I have no time for that, If you are in urgent need of instructions, mail me at subhu990@gmail.com.
+ There is a need for detailed instructions for where to keep files and locate them, so as to run Proteus Simulations. Currently I have no time for that, If you are in urgent need of instructions, mail me at subhu990@gmail.com.
+
+ Also I will be keeping Fritzing Sketch Files for the actual wiring diagram of some selected projects.
+ Fritzing Sketch [.fzz]
 
 Thank You
