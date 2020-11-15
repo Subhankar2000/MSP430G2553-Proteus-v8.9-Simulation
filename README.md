@@ -23,7 +23,6 @@ Thank You
 + and add new experiments as the NPTEL weeks unfold.
 ```
 
-![Exp16_LunchBox_HelloLCDWithCustomCharacter-RUN](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/blob/master/blob/Exp16_LunchBox_HelloLCDWithCustomCharacter-RUN.jpg)
 ```diff
-@@ Exp16_LunchBox_HelloLCDWithCustomCharacter-RUN@@
+![Exp16_LunchBox_HelloLCDWithCustomCharacter-RUN](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/blob/master/blob/Exp16_LunchBox_HelloLCDWithCustomCharacter-RUN.jpg)
 ```
