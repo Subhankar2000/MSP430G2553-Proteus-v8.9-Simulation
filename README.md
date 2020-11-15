@@ -19,7 +19,7 @@
 Thank You
 
 ```diff
-+ If you have cloned this repository, make sure you do a "git pull origin master" as I update the files weekly
++ If you have cloned this repository, make sure you do a "git pull origin master" as I update files weekly
 + and add new experiments as the NPTEL weeks unfold.
 ```
 
