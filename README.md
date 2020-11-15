@@ -19,8 +19,8 @@
 Thank You
 
 ```diff
-! If you have cloned this repository, make sure you do a "git pull origin master" as I update files weekly
-! and add new experiments as the NPTEL weeks unfold.
++ If you have cloned this repository, make sure you do a "git pull origin master" as I update files weekly
++ and add new experiments as the NPTEL weeks unfold.
 ```
 
 ![Exp16_LunchBox_HelloLCDWithCustomCharacter-RUN](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/blob/master/blob/Exp16_LunchBox_HelloLCDWithCustomCharacter-RUN.jpg)
