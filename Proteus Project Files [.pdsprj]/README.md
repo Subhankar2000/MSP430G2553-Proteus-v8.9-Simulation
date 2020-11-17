@@ -14,7 +14,9 @@
  
 #### For using the Repository and my project files, you need to have CCS installed and integrated into Proteus, then you can use my files, but the UART ones need more guide to run( currently I am not able to write that much documentation )
 
-## A crude way to integrate CCS compiler with Proteus : 
+## A way to integrate CCS compiler with Proteus : 
+(a not so detailed way of explanation)
+
 + Step 1 : find the CCS installation directory , go to it :
 
 ![1.png](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/blob/master/blob/1.png)
