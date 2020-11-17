@@ -14,7 +14,7 @@
  There is a need for detailed instructions for where to keep files and locate them, so as to run Proteus Simulations. Currently I have no time for that, If you are in urgent need of detailed instructions, mail me at subhu990@gmail.com.
  
  ## However I have provided some sort of instruction below ! Do have a Look !
- ### Also it is in - README.md of Proteus Project Files [.pdsprj] folder] - https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/tree/master/Proteus%20Project%20Files%20%5B.pdsprj%5D)
+ ### Also it is in - [README.md of Proteus Project Files [.pdsprj] folder](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/tree/master/Proteus%20Project%20Files%20%5B.pdsprj%5D)
 
  Also I will be keeping Fritzing Sketch Files for the actual wiring diagram of some selected projects.
  Fritzing Sketch [.fzz]
