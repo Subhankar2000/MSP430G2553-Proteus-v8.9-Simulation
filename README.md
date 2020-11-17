@@ -26,7 +26,7 @@ Thank You
 + and add new experiments as the NPTEL weeks unfold.
 ```
 
-![Exp16_LunchBox_HelloLCDWithCustomCharacter-RUN](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/blob/master/blob/Exp16_LunchBox_HelloLCDWithCustomCharacter-RUN.jpg)
+![Exp16_LunchBox_HelloLCDWithCustomCharacter-RUN](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/blob/master/blob/Exp16_LunchBox_HelloLCDWithCustomCharacter-RUN.jpg?raw=true)
 
 
 # How to set up CCS compiler for Proteus ?
@@ -35,13 +35,13 @@ Thank You
  I don't have enough time to give all instructions step by step, but you can set up CCS compiler and then clone my repository and after figuring out by yourself more can run simulations in proteus. Also for running Hardware UART programs, you have to modify the program to Software UART and compile and run them through HEX files. because the Hardware UART does not give out any signal. Also the bounce debounce such things don't apply here, So getting a lunchbox in hand is the best way.
  
  ### This is a software UART (modified program from original ): 
- ![Exp41_LunchBox_Introduction_to_Embedded_C-INO.png](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/blob/master/blob/Exp41_LunchBox_Introduction_to_Embedded_C-INO.png)
+ ![Exp41_LunchBox_Introduction_to_Embedded_C-INO.png](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/blob/master/blob/Exp41_LunchBox_Introduction_to_Embedded_C-INO.png?raw=true)
  
  ### Another Hello world ( software UART -  (modified program from original ) ) :
- ![Exp01_LunchBox_UART_Template-INO.png](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/blob/master/blob/Exp01_LunchBox_UART_Template-INO.png)
+ ![Exp01_LunchBox_UART_Template-INO.png](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/blob/master/blob/Exp01_LunchBox_UART_Template-INO.png?raw=true)
   
  ### This is as per lecture video and using Embedded C code : 
- ![Exp05_LunchBox_DebouncingTheSwitch.png](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/blob/master/blob/Exp05_LunchBox_DebouncingTheSwitch.png)
+ ![Exp05_LunchBox_DebouncingTheSwitch.png](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/blob/master/blob/Exp05_LunchBox_DebouncingTheSwitch.png?raw=true)
  
 #### For using the Repository and my project files, you need to have CCS installed and integrated into Proteus, then you can use my files, but the UART ones need more guide to run( currently I am not able to write that much documentation )
 
@@ -50,15 +50,15 @@ Thank You
 
 + Step 1 : find the CCS installation directory , go to it :
 
-![1.png](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/blob/master/blob/1.png)
+![1.png](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/blob/master/blob/1.png?raw=true)
 
 + Step 2 : open proteus and select new project, do next next and come to this window :
 
-![2.png](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/blob/master/blob/2.png)
+![2.png](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/blob/master/blob/2.png?raw=true)
 
 + Step 3 : then select compilers and then search for Code Composer for MSP430 : and enter like this with your proper path and drive letter : 
 
-![3.png](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/blob/master/blob/3.png)
+![3.png](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation/blob/master/blob/3.png?raw=true)
 
 if you have installed typically in c drive and version as per NPTEL lecture, then your path may be like this : C:\ti\ccs930\ccs\tools\compiler\ti-cgt-msp430_18.12.4.LTS
 
